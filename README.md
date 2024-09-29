@@ -1,10 +1,9 @@
-# mspaint
-A decent roblox doors script. Free and Open Source 🥶
+# antzun
+A decent roblox doors script.
 
 ```lua
 loadstring(game:HttpGet("https://raw.githubusercontent.com/notpoiu/mspaint/main/main.lua"))()
 ```
 
 **Links**:
-- [🌐 Website](https://mspaint.upio.dev/)
-- [💬 Discord](https://discord.com/invite/cfyMptntHr)
+- [💬 Discord](https://discord.gg/KnsmVffty7)
